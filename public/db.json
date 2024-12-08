@@ -1,0 +1,59 @@
+{
+    "courses": [
+      {
+        "id": 1,
+        "title": "Engineering",
+        "description": "Access past papers for all Engineering courses.",
+        "link": "https://www.studocu.com/row/document/egerton-university/electrical-and-electronics-engineering/past-papers-knec/94657626"
+      },
+      {
+        "id": 2,
+        "title": "Accounting",
+        "description": "Access past papers for Accounting courses.",
+        "link": "https://www.cambridgeinternational.org/programmes-and-qualifications/cambridge-igcse-accounting-0452/past-papers/"
+      },
+      {
+        "id": 3,
+        "title": "Catering",
+        "description": "Access past papers for Catering courses.",
+        "link": "https://www.studocu.com/row/document/university-of-nairobi/hospitality-management/catering-end-of-semester-exam-questions/99627163"
+      },
+      {
+        "id": 4,
+        "title": "Journalism",
+        "description": "Access past papers for Journalism courses.",
+        "link": "https://zicosh.com/css-journalism-and-mass-communication-past-papers/"
+      },
+      {
+        "id": 5,
+        "title": "Pharmacy",
+        "description": "Access past papers for Pharmacy courses.",
+        "link": "https://erepository.tum.ac.ke/handle/123456789/114"
+      },
+      {
+        "id": 6,
+        "title": "Business & Management Studies",
+        "description": "Access past papers for Business & Management Studies courses.",
+        "link": "https://masomomsingi.com/knec-diploma-in-business-management-past-papers-pdf/"
+      },
+      {
+        "id": 7,
+        "title": "Creative Arts & Media",
+        "description": "Access past papers for Creative Arts & Media courses.",
+        "link": "https://finstockevarsity.com/resources/product/grade-4-creative-arts-revision-questions-with-answers-paper-2/?srsltid=AfmBOoru_WWpmCmWv4_rHC1i-VLZ8i6HEDtd2X1WjKCgEgEg-wmMZVQ8"
+      },
+      {
+        "id": 8,
+        "title": "Hospitality & Human Ecology",
+        "description": "Access past papers for Hospitality & Human Ecology courses.",
+        "link": "https://www.um.edu.mt/media/um/docs/directorates/matsec/examinationpapers/pastpapers/am/am18homeeconomicsandhumanecology/AM201820Home20Economics20and20Human20Ecology20201820Sep.pdf"
+      },
+      {
+        "id": 9,
+        "title": "Information & Social Studies",
+        "description": "Access past papers for Information & Social Studies courses.",
+        "link": "https://masomomsingi.co.ke/social-sciences-knec-past-papers/"
+      }
+    ]
+  }
+  
